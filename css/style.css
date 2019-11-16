@@ -99,7 +99,7 @@
     color: #fff;
   }
   
-  #navbar h1 {
+  #navbar .logo {
     float: left;
     padding-top: 20px;
   }
@@ -206,7 +206,7 @@
   
   /* Testimonials */
   #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../img/test-bg.jpg') no-repeat center center/cover;
     padding-top: 100px;
   }
